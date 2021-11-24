@@ -1,0 +1,61 @@
+* { margin: auto;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    width: 100%;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+#fotoHome{
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    background-position: center;
+    background-repeat: no-repeat;
+
+
+}
+
+h2{
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    color: #555;
+    font-weight: 50;
+}
+
+
+.carrito div{
+    display: flex;
+    margin:10px;
+    padding: 20px;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: darkcyan;
+    color:#fff;
+}
+
+
+.designs{ 
+    width:auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+    overflow: auto;
+
+
+    }
+
+.totalCarrito{
+   margin: 20px;
+}
+#btn-comprar{
+    margin: 20px;
+}
